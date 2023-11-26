@@ -1,0 +1,19 @@
+{
+    "name": "com.programadorcastellano.centralisedui.editor",
+    "rootNamespace": "ProgramadorCastellano.CentralisedUI.EditorTools",
+    "references": [
+        "GUID:988c9a4f40a50d44498279906fb2f211",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

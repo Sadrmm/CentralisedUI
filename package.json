@@ -1,0 +1,28 @@
+{
+  "name": "com.programadorcastellano.centralisedui",
+  "version": "1.0.0",
+  "displayName": "Centralised UI",
+  "description": "A small add-on that will allow you to modify the colours, images or animations of your selectable UI elements in a centralised way.",
+  "unity": "2022.3",
+  "keywords": [
+    "add-on",
+    "utilty",
+    "tool",
+    "UI"
+  ],
+  "author": {
+    "name": "Adri\u00e1n Mon Maroto",
+    "url": "https://sadrmm.github.io/Portfolio/"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "unityRelease": "11f1",
+  "samples": [
+    {
+        "displayName": "Prefabs",
+        "description": "Contains a prefab for each Unity selectable with the component already implemented.",
+        "path": "Samples~/Prefabs"
+    }
+  ]
+}

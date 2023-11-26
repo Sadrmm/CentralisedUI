@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d47d2a4266f21d438e73a7e22889ecc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _colorTintSO: {fileID: 11400000, guid: 4110f41c74a046746a45c28495d96607, type: 2}
+  - _spriteSwapSO: {fileID: 11400000, guid: a6128f982f784fd4c956e2c6115c28a2, type: 2}
+  - _animationSO: {fileID: 11400000, guid: a1e9a44896099674da4d1e17cc0d6a36, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
